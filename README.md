@@ -1,4 +1,4 @@
-# CYA-2 – Job Application & Interview Scheduling
+# CYA-2 – Internship Application & Interview Scheduling
 
 ## Overview
 This repository documents my Career Development Experience (CYA 02), focused on applying for a remote Computer Data Analyst position and progressing to the interview scheduling stage.
