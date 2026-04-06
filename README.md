@@ -19,7 +19,7 @@ As part of the application process, I received a request to schedule an intervie
 ## Deliverable
 The primary deliverable is a screenshot confirming progression in the hiring process:
 
-- Interview scheduling request email/message (see `Analyst.jpg`)
+- Interview scheduling request email (see `Analyst.jpg`)
 - (Interviewer information was withheld for their privacy)
 
 ## Summary
