@@ -1,7 +1,7 @@
 # CYA-2 – Job Application & Interview Scheduling
 
 ## Overview
-This repository documents my Career Development Experience (CYA 01), focused on applying for a remote Computer Data Analyst position and progressing to the interview scheduling stage.
+This repository documents my Career Development Experience (CYA 02), focused on applying for a remote Computer Data Analyst position and progressing to the interview scheduling stage.
 
 ## Career Goals
 I am a Cyber Security student with a strong interest in:
